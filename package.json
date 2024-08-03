@@ -1,7 +1,7 @@
 {
   "name": "reactt-kickoff",
-  "version": "1.0.0",
-  "description": "A CLI tool to quickly install commonly used React project packages",
+  "version": "1.0.1",
+  "description": "A CLI tool to quickly install commonly used react project packages",
   "main": "index.js",
   "bin": {
     "reactt-kickoff": "./bin/index.js"
@@ -15,16 +15,37 @@
   },
   "keywords": [
     "react",
-    "reactjs",
-    "quick",
-    "react-quick",
-    "react-install",
-    "react-quickinstaller",
-    "react-quick-installer",
-    "react-fast",
-    "fast",
-    "react-fast-installer"
+    "create-react-app",
+    "react-boilerplate",
+    "react-starter",
+    "react-template",
+    "react-setup",
+    "react-cli",
+    "react-tooling",
+    "react-scaffold",
+    "react-project-generator",
+    "react-project-setup",
+    "react-quick-start",
+    "react-bootstrapper",
+    "react-kickstart",
+    "react-init",
+    "react-dependency-manager",
+    "react-package-installer",
+    "react-project-initializer",
+    "frontend-tooling",
+    "web-development",
+    "javascript",
+    "npm",
+    "reactjs"
   ],
   "author": "Aayushmaan Soni",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aayushmaan-54/reactt-kickoff_NPM"
+  },
+"bugs": {
+    "url": "https://github.com/aayushmaan-54/reactt-kickoff_NPM/issues",
+    "homepage": "https://github.com/aayushmaan-54/reactt-kickoff_NPM/blob/main/README.md"
+  }
 }
