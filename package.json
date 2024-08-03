@@ -1,0 +1,30 @@
+{
+  "name": "reactt-kickoff",
+  "version": "1.0.0",
+  "description": "A CLI tool to quickly install commonly used React project packages",
+  "main": "index.js",
+  "bin": {
+    "reactt-kickoff": "./bin/index.js"
+  },
+  "scripts": {
+    "reactt-kickoff": "node ./bin/index.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.5"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "quick",
+    "react-quick",
+    "react-install",
+    "react-quickinstaller",
+    "react-quick-installer",
+    "react-fast",
+    "fast",
+    "react-fast-installer"
+  ],
+  "author": "Aayushmaan Soni",
+  "license": "ISC"
+}
